@@ -7,4 +7,4 @@
 </p>
 
 <h2 align="left">Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=netenebraes&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="netenebraes's GitHub Stats"/><img src="https://streak-stats.demolab.com?user=netenebraes&theme=chartreuse-dark&hide_border=true" alt="netenebraes's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=netenebraes&theme=chartreuse-dark&hide_border=true" alt="netenebraes's GitHub Stats" />
