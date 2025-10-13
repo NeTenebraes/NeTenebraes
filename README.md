@@ -1,4 +1,4 @@
-# 🛡️ Cyber Security Enthuiast | Pen Tester
+# 🛡️ Cyber Security Enthusiast | Pen Tester
 
 > **Especialista en Hardening, Análisis de Vulnerabilidades y Automatización Linux.** | Creador de la neCyberWIKI.
 
