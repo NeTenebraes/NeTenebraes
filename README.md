@@ -5,7 +5,7 @@
 <table style="width: 100%; border: none; padding: 0; margin: 0;">
     <tr>
         <td style="width: 50%; text-align: left; padding: 0;">
-            <img src="https://avatars.githubusercontent.com/u/156097208?v=4" alt="Avatar de NeTenebrae - Ilustración manga serio" width="250" />
+            <img src="https://i.postimg.cc/d1T34fyF/Untitled.jpg" alt="Avatar de NeTenebrae - Ilustración manga serio" width="250" /> 
         </td>
         <td style="width: 50%; text-align: right; padding: 0;">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Netenebraes&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&background=1F222E" alt="Racha de contribuciones" />
@@ -16,7 +16,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netenebraes&layout=compact&theme=dark&langs_count=6&hide_title=true&bg_color=1F222E" alt="Lenguajes principales" />
         </td>
         <td style="width: 50%; text-align: right; padding: 0;">
-                        <img src="https://github-profile-trophy.vercel.app/?username=Netenebraes&theme=onedark&no-frame=true&bg_color=1F222E" alt="Trofeos de GitHub" />
+          <img src="https://github-profile-trophy.vercel.app/?username=Netenebraes&theme=onedark&no-frame=true&bg_color=1F222E" alt="Trofeos de GitHub" />
         </td>
     </tr>
 </table>
