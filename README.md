@@ -1,4 +1,4 @@
-# 🛡️ NeTenebrae | Cyber Security Engineer & Pentester
+# 🛡️ Cyber Security Engineer & Pentester
 
 > **Especialista en Hardening, Análisis de Vulnerabilidades y Automatización Linux.** | Creador de la neCyberWIKI.
 
