@@ -5,7 +5,7 @@
 <table style="width: 100%; border: none; padding: 0; margin: 0;">
     <tr>
         <td style="width: 50%; text-align: center; padding: 0;">
-            <img src="https://i.postimg.cc/ZYMwtCnF/Untitled.jpg" alt="Avatar de NeTenebrae - Ilustración manga serio" width="250" /> 
+            <img src="https://i.postimg.cc/ZYMwtCnF/Untitled.jpg" alt="Avatar de NeTenebrae - Ilustración manga serio" width="250" />
         </td>
         <td style="width: 50%; text-align: right; padding: 0;">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Netenebraes&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&background=1F222E" alt="Racha de contribuciones" />
@@ -16,7 +16,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netenebraes&layout=compact&theme=dark&langs_count=6&hide_title=true&bg_color=1F222E" alt="Lenguajes principales" />
         </td>
         <td style="width: 50%; text-align: right; padding: 0;">
-          <img src="https://github-profile-trophy.vercel.app/?username=Netenebraes&theme=onedark&no-frame=true&bg_color=1F222E" alt="Trofeos de GitHub" />
+          <img src="https://github-profile-trophy.vercel.app/?username=Netenebraes&theme=onedark&no-frame=true&bg_color=1F222E" alt="Trofeos de GitHub" />
         </td>
     </tr>
 </table>
@@ -35,14 +35,17 @@ La **neCyberWIKI** es mi compromiso personal para **democratizar la Cibersegurid
 | **Contenido Core** | Guías de **Pentesting**, Análisis Profundo de *Exploits* y estrategias de **Hardening** de sistemas operativos. |
 | **Estado** | **¡EN DESARROLLO!** El repositorio público se lanzará pronto. |
 
-### Apoyo a la Misión
+### ¡Apoya a la Misión!
 
 Mantener el conocimiento libre es mi prioridad. Si el proyecto resuena contigo, tu apoyo es esencial.
 
-<a href='https://ko-fi.com/G2G15D68T' target='_blank'>
-    <img src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png' alt='Support Me on Ko-fi' width='220' />
-</a>
+**⭐ ¡Considera apoyar mi trabajo y a la neCyberWIKI!**
 
+  <h2 align="center">¡Cada dolar donado son horas que ahorras a mi trabajo!</h2>
+  
+  [![Support Me on Ko-fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png)](https://ko-fi.com/G2G15D68T)
+
+  
 ---
 
 ## ⚙️ Manifiesto Técnico & Core Focus
@@ -58,11 +61,11 @@ Mi trabajo se centra en la optimización de procesos y la defensa activa de infr
 Me enfoco en lenguajes que permiten la automatización robusta y el desarrollo de herramientas de seguridad.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### 🛠️ Herramientas y Entornos Clave
@@ -70,10 +73,10 @@ Me enfoco en lenguajes que permiten la automatización robusta y el desarrollo d
 Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de ciberseguridad.
 
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Analysis-9A2500?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Analysis-9A2500?style=for-the-badge&logo=wireshark&logoColor=white" alt="Vulnerability Analysis" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 </div>
@@ -86,7 +89,7 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 | **Especialidad** | Pentesting, Red Team & Blue Team. |
 | **Desarrollo** | Scripts de automatización y herramientas de seguridad. |
 | **Plataforma** | Optimización de entornos en **Arch Linux**. |
-| **Filosofía** | Foco en la **Defensa Activa (Hardening)** y mitigación de *exploits*. |
+| **Filosofía** | Foco en la **Pen Testing**, **el Hardeing** y la mitigación de *exploits*. |
 
 </div>
 </div>
