@@ -31,7 +31,7 @@ Fanático del terror 💀
 
 La **neCyberWIKI** centraliza contenido **100% técnico, práctico y gratuito**. Nace de la convicción de que el conocimiento debe ser universal y accesible. Compromiso personal para mejorar el acceso a la Ciberseguridad. Estos son mis apuntes profesionales compartidos.
 
-| 🔑 Enfoque Principal | Descripción |
+| Enfoque Principal | Descripción |
 | :--- | :--- |
 | **Meta Educativa** | Reducir la barrera de entrada a la **Informática**, el **Hacking Ético** y la **Ciberseguridad**. |
 | **Contenido Core** | *Roadmap* estructurado: **Ciencias de la Computación**, **Redes Informáticas**, **Ciberseguridad**, **Red Team**, **Blue Team**, **Sistemas Operativos**, **Programación**, y más. |
