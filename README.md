@@ -1,6 +1,5 @@
 # 🛡️ Cyber Security Enthusiast | Pen Tester
-
-> **Especialista en Hardening, Análisis de Vulnerabilidades y Automatización Linux.** | Creador de la neCyberWIKI.
+> **Entusiasta del Pen Testing, Hardening y la Automatización con Scripts.** | Creador de la **neCyberWIKI**.
 
 <table style="width: 100%; border: none; padding: 0; margin: 0;">
     <tr>
@@ -21,36 +20,38 @@
     </tr>
 </table>
 
-<h3 align="center">"En el código y en la vida, el silencio es la mayor vulnerabilidad."</h3>
+<h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
+
+*Inicié con la divulgación de contenido este 2025, cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. Utilizo GitHub para documentar y publicar mi recorrido en el sector de la informática.*
+Fanático del terror 💀
 
 ---
 
 ## 📚 neCyberWIKI: Misión de Conocimiento Libre
 
-La **neCyberWIKI** es mi compromiso personal para **democratizar la Ciberseguridad**. Es una plataforma centralizada que ofrece contenido **100% técnico, práctico y gratuito** para la comunidad.
+La **neCyberWIKI** centraliza contenido **100% técnico, práctico y gratuito**. Nace de la convicción de que el conocimiento debe ser universal y accesible. Compromiso personal para mejorar el acceso a la Ciberseguridad. Estos son mis apuntes profesionales compartidos.
 
 | 🔑 Enfoque Principal | Descripción |
 | :--- | :--- |
-| **Meta Educativa** | Reducir la barrera de entrada al **Hackeo Ético** y la **Seguridad Digital**. |
-| **Contenido Core** | Guías de **Pentesting**, Análisis Profundo de *Exploits* y estrategias de **Hardening** de sistemas operativos. |
-| **Estado** | **¡EN DESARROLLO!** El repositorio público se lanzará pronto. |
+| **Meta Educativa** | Reducir la barrera de entrada a la **Informática**, el **Hacking Ético** y la **Ciberseguridad**. |
+| **Contenido Core** | *Roadmap* estructurado: **Ciencias de la Computación**, **Redes Informáticas**, **Ciberseguridad**, **Red Team**, **Blue Team**, **Sistemas Operativos**, **Programación**, y más. |
+| **Certificación** | Guía para la preparación de certificados **gratuitos**, como el [CS50 de Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science). |
+| **Estado** | **EN DESARROLLO.** El repositorio público, la aplicación Obsidian y la web estática están en camino. |
 
-### ¡Apoya a la Misión!
+### ¡Apoya mi Visión!
 
-Mantener el conocimiento libre es mi prioridad. Si el proyecto resuena contigo, tu apoyo es esencial.
+Tengo la visión del acceso al conocimiento gratuito, **sin suscripciones** ni **pagos ocultos**. Priorizo la educación sin costo para que cualquiera pueda adentrarse al mundo de la informática **sin excusas**.
+Si la misión de conocimiento libre resuena contigo, puedes apoyar con una donación en [Ko-fi](https://ko-fi.com/G2G15D68T).
 
-**⭐ ¡Considera apoyar mi trabajo y a la neCyberWIKI!**
+ <h2 align="center">⭐ ¡Considera apoyar mi trabajo y a la neCyberWIKI! ⭐</h2>
+ 
+[![Support Me on Ko-fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png)](https://ko-fi.com/G2G15D68T)
 
-  <h2 align="center">¡Cada dolar donado son horas que ahorras a mi trabajo!</h2>
-  
-  [![Support Me on Ko-fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png)](https://ko-fi.com/G2G15D68T)
-
-  
 ---
 
-## ⚙️ Manifiesto Técnico & Core Focus
+## ⚙️ Enfoque Central
 
-Mi trabajo se centra en la optimización de procesos y la defensa activa de infraestructuras, con un profundo entendimiento de **Linux** y la automatización.
+Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts de automatización** y el **Hardening de sistemas**. Mi prioridad es mi constante aprendizaje y la generación de material educativo.
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
@@ -88,8 +89,7 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 | :--- | :--- |
 | **Especialidad** | Pentesting, Red Team & Blue Team. |
 | **Desarrollo** | Scripts de automatización y herramientas de seguridad. |
-| **Plataforma** | Optimización de entornos en **Arch Linux**. |
-| **Filosofía** | Foco en la **Pen Testing**, **el Hardeing** y la mitigación de *exploits*. |
+| **Plataforma** | Optimización de entornos **Linux**. |
 
 </div>
 </div>
@@ -99,24 +99,21 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 ## ✨ Proyectos Open Source
 
 Contribuciones enfocadas en eficiencia y seguridad para la gestión del flujo de trabajo en entornos Linux.
-
 ### 1. [nevpn] (Simple VPN/Proxy Manager)
-> Una solución minimalista y ligera en Bash para la gestión de conexiones. Permite a los profesionales de seguridad cambiar y configurar rápidamente proxies/VPNs en ambientes de testeo y operación.
+> Una solución minimalista y ligera en Bash para la gestión de conexiones VPN/Proxy.
 > 🛠️ **Lenguaje:** Shell Script (Bash)
 > [**Ver Proyecto**](https://github.com/Netenebraes/nevpn)
 
 ### 2. [NeTenebrae-dotfiles] (Mi Set-up Personal)
-> Mi configuración completa y documentada (*dotfiles*) para un entorno de trabajo y desarrollo optimizado en Arch Linux. Un recurso valioso para quienes buscan un *setup* de alto rendimiento y enfocado en seguridad.
+> Mi configuración documentada (*dotfiles*) para un entorno de trabajo en Arch Linux. 
 > [**Ver Dotfiles**](https://github.com/Netenebraes/NeTenebrae-dotfiles)
 
 ---
 
-## 🔗 Conéctate (Contenido y Redes)
+## 🔗 Redes Sociales
 
-Documento mi progreso, comparto análisis de vulnerabilidades y discuto tendencias de ciberseguridad en mis plataformas.
-
-| Plataforma | Contenido Exclusivo |
+Documento mi progreso, comparto análisis de vulnerabilidades y discuto tendencias de ciberseguridad en mis plataformas:
+| Plataforma | Contenido |
 | :--- | :--- |
-| [🎥 **YouTube**](https://www.youtube.com/@NeTenebrae) | Tutoriales técnicos, análisis de ciberseguridad y guías de configuración avanzadas de Linux. |
-| [💼 **LinkedIn**](https://www.linkedin.com/in/netenebrae/) | Discusiones profesionales sobre seguridad informática, logros y tendencias del sector. |
+| [🎥 **YouTube**](https://www.youtube.com/@NeTenebrae) | Subo VoidMemes, tutoriales técnicos, análisis de ciberseguridad y guías de configuración avanzadas de Linux. |
 | [💬 **Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, enlaces relevantes y debates sobre las últimas amenazas y defensas. |
