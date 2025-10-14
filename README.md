@@ -29,7 +29,7 @@ Fanático del terror 💀
 
 ## 📚 neCyberWIKI: Misión de Conocimiento Libre
 
-La **neCyberWIKI** centraliza contenido **100% técnico, práctico y gratuito**. Nace de la convicción de que el conocimiento debe ser universal y accesible. Compromiso personal para mejorar el acceso a la Ciberseguridad. Estos son mis apuntes profesionales compartidos.
+La **neCyberWIKI** centraliza contenido **100% técnico, práctico y gratuito**. Nace de la convicción de que el conocimiento debe ser universal y accesible. Compromiso personal para mejorar el acceso a la Ciberseguridad. Comparto contigo mis apuntes profesionales de todo lo que aprendo.
 
 | Enfoque Principal | Descripción |
 | :--- | :--- |
