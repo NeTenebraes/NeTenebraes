@@ -1,25 +1,25 @@
 # 🛡️ Cyber Security Enthusiast | Pen Tester
 > **Entusiasta del Pen Testing, Hardening y la Automatización con Scripts.** | Creador de la **neCyberWIKI**.
 
-<table style="width: 100%; border: none; padding: 0; margin: 0;">
-    <tr>
-        <td style="width: 50%; text-align: center; padding: 0;">
-            <img src="https://i.postimg.cc/ZYMwtCnF/Untitled.jpg" alt="Red Team Logo" width="250" />
-        </td>
-        <td style="width: 50%; text-align: right; padding: 0;">
-            <img src="https://github-readme-stats.vercel.app/api?username=NeTenebraes&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Racha de contribuciones" /> 
-
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 50%; text-align: left; padding: 0;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeTenebraes&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes principales" />
-        </td>
-        <td style="width: 50%; text-align: right; padding: 0;">
-          <img src="https://github-profile-trophy.vercel.app/?username=Netenebraes&theme=onedark&no-frame=true&bg_color=1F222E" alt="Trofeos de GitHub" />
-        </td>
-    </tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.postimg.cc/ZYMwtCnF/Untitled.jpg" alt="Red Team Logo" width="250" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=NeTenebraes&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Racha de contribuciones" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeTenebraes&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes principales" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Netenebraes&theme=onedark&no-frame=true&bg_color=1F222E" alt="Trofeos de GitHub" />
+    </td>
+  </tr>
 </table>
+
 
 <h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
 
