@@ -117,5 +117,5 @@ Contribuciones enfocadas en eficiencia y seguridad para la gestión del flujo de
 Documento mi progreso, comparto análisis de vulnerabilidades y discuto tendencias de ciberseguridad en mis plataformas:
 | Plataforma | Contenido |
 | :--- | :--- |
-| [🎥 **YouTube**](https://www.youtube.com/@NeTenebrae) | Subo VoidMemes, tutoriales técnicos, análisis de ciberseguridad y guías de configuración avanzadas de Linux. |
-| [💬 **Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, enlaces relevantes y debates sobre las últimas amenazas y defensas. |
+| [**YouTube**](https://www.youtube.com/@NeTenebrae) | Subo VoidMemes, tutoriales técnicos, análisis de ciberseguridad y guías de configuración avanzadas de Linux. |
+| [**Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, enlaces relevantes y debates sobre las últimas amenazas y defensas. |
