@@ -43,7 +43,7 @@ Compromiso personal para mejorar el acceso a la Informática y la Ciberseguridad
 ### ¡Apoya mi Visión!
 
 Tengo la visión del acceso al conocimiento gratuito, **sin suscripciones** ni **pagos ocultos**. Priorizo la educación sin costo para que cualquiera pueda adentrarse al mundo de la informática **sin excusas**.
-Si la misión de conocimiento libre resuena contigo, puedes apoyar con una donación en [Ko-fi](https://ko-fi.com/G2G15D68T).
+Si la misión de conocimiento libre resuena contigo, puedes apoyar con una donación.
 
  <h2 align="center">⭐ ¡Considera apoyar mi trabajo y a la neCyberWIKI! ⭐</h2>
  
@@ -53,7 +53,7 @@ Si la misión de conocimiento libre resuena contigo, puedes apoyar con una donac
 
 ## ⚙️ Enfoque Central
 
-Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts de automatización** y el **Hardening de sistemas**. Mi prioridad es mi constante aprendizaje y la generación de material educativo.
+Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts de automatización** y el **Hardening de sistemas**. Mi prioridad es el constante aprendizaje y la generación de material educativo de calidad.
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
@@ -64,11 +64,11 @@ Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts de auto
 Me enfoco en lenguajes que permiten la automatización robusta y el desarrollo de herramientas de seguridad.
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 🛠️ Herramientas y Entornos Clave
@@ -76,10 +76,10 @@ Me enfoco en lenguajes que permiten la automatización robusta y el desarrollo d
 Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de ciberseguridad.
 
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Analysis-9A2500?style=for-the-badge&logo=wireshark&logoColor=white" alt="Vulnerability Analysis" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Analysis-9A2500?style=for-the-badge&logo=wireshark&logoColor=white" alt="Vulnerability Analysis"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 </div>
