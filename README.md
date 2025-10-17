@@ -36,7 +36,7 @@ Compromiso personal para mejorar el acceso a la Informática y la Ciberseguridad
 | Enfoque Principal | Descripción |
 | :--- | :--- |
 | **Meta Educativa** | Reducir la barrera de entrada a la **Informática**, el **Hacking Ético** y la **Ciberseguridad**. |
-| **Contenido Core** | *Roadmap* estructurado: **Ciencias de la Computación**, **Redes Informáticas**, **Ciberseguridad**, **Red Team**, **Blue Team**, **Sistemas Operativos**, **Programación**, y más. |
+| **Contenido Core** | *Roadmap* estructurado: **Ciencias de la Computación**, **Redes Informáticas**, **Ciberseguridad**, **Red Team**, **Blue Team**, **Sistemas Operativos**, **Programación**, **Write Ups**, y más. |
 | **Certificación** | Guía para la preparación de certificados **gratuitos**, como el [CS50 de Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science). |
 | **Estado** | **EN DESARROLLO.** El repositorio público, las notas de Obsidian y la web estática están en camino. |
 
