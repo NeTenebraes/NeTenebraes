@@ -10,14 +10,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=NeTenebraes&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Racha de contribuciones" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeTenebraes&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes principales" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Netenebraes&theme=onedark&no-frame=true&bg_color=1F222E" alt="Trofeos de GitHub" />
-    </td>
-  </tr>
 </table>
 
 
