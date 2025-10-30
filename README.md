@@ -32,15 +32,6 @@ Compromiso personal para mejorar el acceso a la Informática y la Ciberseguridad
 | **Certificación** | Guía para la preparación de certificados **gratuitos**, como el [CS50 de Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science). |
 | **Estado** | **EN DESARROLLO.** El repositorio público, las notas de Obsidian y la web estática están en camino. |
 
-### ¡Apoya mi Visión!
-
-Tengo la visión del acceso al conocimiento gratuito, **sin suscripciones** ni **pagos ocultos**. Priorizo la educación sin costo para que cualquiera pueda adentrarse al mundo de la informática **sin excusas**.
-Si la misión de conocimiento libre resuena contigo, puedes apoyar con una donación.
-
- <h2 align="center">⭐ ¡Considera apoyar mi trabajo y a la neCyberWIKI! ⭐</h2>
- 
-[![Support Me on Ko-fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png)](https://ko-fi.com/G2G15D68T)
-
 ---
 
 ## ⚙️ Enfoque Central
@@ -87,20 +78,6 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 
 </div>
 </div>
-
----
-
-## ✨ Proyectos Open Source
-
-Contribuciones enfocadas en eficiencia y seguridad para la gestión del flujo de trabajo en entornos Linux.
-### 1. [nevpn] (Simple VPN/Proxy Manager)
-> Una solución minimalista y ligera en Bash para la gestión de conexiones VPN/Proxy.
-> 🛠️ **Lenguaje:** Shell Script (Bash)
-> [**Ver Proyecto**](https://github.com/Netenebraes/nevpn)
-
-### 2. [NeTenebrae-dotfiles] (Mi Set-up Personal)
-> Mi configuración documentada (*dotfiles*) para un entorno de trabajo en Arch Linux. 
-> [**Ver Dotfiles**](https://github.com/Netenebraes/NeTenebrae-dotfiles)
 
 ---
 
