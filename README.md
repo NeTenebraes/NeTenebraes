@@ -25,10 +25,10 @@ Fanático del terror 💀
 > Visita la [Página Web](https://netenebraes.github.io/neCyberWiki). 
  
 ---
-
 ## ⚙️ Enfoque Central
+> Mi prioridad es el constante aprendizaje y la generación de material educativo de calidad.
 
-Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts de automatización** y el **Hardening de sistemas**. Mi prioridad es el constante aprendizaje y la generación de material educativo de calidad.
+Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts** y el **Análisis de Vulnerabilidades**. 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
@@ -72,7 +72,6 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 </div>
 
 ---
-
 ## 🔗 Redes Sociales
 
 Documento mi progreso, comparto análisis de vulnerabilidades y discuto tendencias de ciberseguridad en mis plataformas:
