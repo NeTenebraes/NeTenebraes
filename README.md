@@ -15,7 +15,7 @@
 
 <h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
 
-*Inicié con la divulgación de contenido este 2025, cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. **Utilizo GitHub para documentar y publicar mi recorrido en el sector de la informática.***
+*Inicié con la divulgación de contenido este 2025, cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. **Utilizo GitHub para documentar mi recorrido en el sector de la informática.***
 Fanático del terror 💀
 
 ---
@@ -59,14 +59,6 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 
 </div>
 <div style="width: 50%; padding-left: 20px;">
-
-### 🎯 Enfoque Profesional
-
-| Aspecto | Rol/Función |
-| :--- | :--- |
-| **Especialidad** | Pentesting y Hardening. |
-| **Desarrollo** | Scripts de automatización y herramientas de seguridad. |
-| **Plataforma** | Optimización de entornos **Linux**. |
 
 </div>
 </div>
