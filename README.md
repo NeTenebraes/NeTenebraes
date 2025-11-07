@@ -36,7 +36,7 @@ Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts** y el 
 
 ### 💾 Stack de Programación
 
-Me enfoco en lenguajes de Scripting para desarrollar herramientas de seguridad,Automatización y personalización. Distrito de la creación de páginas web. 
+Me enfoco en lenguajes de Scripting para desarrollar herramientas de seguridad, Automatización y Personalización. También disfruto de la creación de páginas web. 
 
 <p>
   <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
