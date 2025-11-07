@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity Enthusiast
-> **Entusiasta del Pen Testing, Hardening y la Automatización con Scripts.**
+> **Fan del Pen Testing, Hardening y el Scripting.**
 
 <table align="center">
   <tr>
