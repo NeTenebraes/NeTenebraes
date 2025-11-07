@@ -1,5 +1,5 @@
 # 🛡️ Cyber Security Enthusiast | Pen Tester
-> **Entusiasta del Pen Testing, Hardening y la Automatización con Scripts.** | Creador de la **neCyberWIKI**.
+> **Entusiasta del Pen Testing, Hardening y la Automatización con Scripts.**
 
 <table align="center">
   <tr>
@@ -15,7 +15,7 @@
 
 <h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
 
-*Inicié con la divulgación de contenido este 2025, cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. Utilizo GitHub para documentar y publicar mi recorrido en el sector de la informática.*
+*Inicié con la divulgación de contenido este 2025, cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. **Utilizo GitHub para documentar y publicar mi recorrido en el sector de la informática.***
 Fanático del terror 💀
 
 ---
