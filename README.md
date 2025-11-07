@@ -20,18 +20,9 @@ Fanático del terror 💀
 
 ---
 
-## 📚 neCyberWIKI: Misión de Conocimiento Libre
+## 📚 Creador de neCyberWIKI: Misión de Conocimiento Libre.
 
-**La neCyberWIKI centraliza contenido 100% técnico, práctico y gratuito**. Nace de la convicción del acceso universal a conocimiento de calidad.
-Compromiso personal para mejorar el acceso a la Informática y la Ciberseguridad. ¡Aquí les comparto los apuntes profesionales de todo lo que aprendo! 😎
-
-| Enfoque Principal | Descripción |
-| :--- | :--- |
-| **Meta Educativa** | Reducir la barrera de entrada a la **Informática**, el **Hacking Ético** y la **Ciberseguridad**. |
-| **Contenido Core** | *Roadmap* estructurado: **Ciencias de la Computación**, **Redes Informáticas**, **Ciberseguridad**, **Red Team**, **Blue Team**, **Sistemas Operativos**, **Programación**, **Write Ups**, y más. |
-| **Certificación** | Guía para la preparación de certificados **gratuitos**, como el [CS50 de Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science). |
-| **Estado** | **EN DESARROLLO.** El repositorio público, las notas de Obsidian y la web estática están en camino. |
-
+ 
 ---
 
 ## ⚙️ Enfoque Central
