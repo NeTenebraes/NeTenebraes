@@ -36,7 +36,7 @@ Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts** y el 
 
 ### 💾 Stack de Programación
 
-Me enfoco en lenguajes que permiten la automatización robusta y el desarrollo de herramientas de seguridad.
+Me enfoco en lenguajes de Scripting para desarrollar herramientas de seguridad,Automatización y personalización. Distrito de la creación de páginas web. 
 
 <p>
   <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
@@ -48,7 +48,7 @@ Me enfoco en lenguajes que permiten la automatización robusta y el desarrollo d
 
 ### 🛠️ Herramientas y Entornos Clave
 
-Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de ciberseguridad.
+Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de ciberseguridad junto al repositorio de BlackArch.
 
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
@@ -64,7 +64,7 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 
 | Aspecto | Rol/Función |
 | :--- | :--- |
-| **Especialidad** | Pentesting, Red Team & Blue Team. |
+| **Especialidad** | Pentesting y Hardening. |
 | **Desarrollo** | Scripts de automatización y herramientas de seguridad. |
 | **Plataforma** | Optimización de entornos **Linux**. |
 
@@ -74,8 +74,8 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 ---
 ## 🔗 Redes Sociales
 
-Documento mi progreso, comparto análisis de vulnerabilidades y discuto tendencias de ciberseguridad en mis plataformas:
+Documento mis avances con el mundo:
 | Plataforma | Contenido |
 | :--- | :--- |
 | [**YouTube**](https://www.youtube.com/@NeTenebrae) | Subo VoidMemes, tutoriales técnicos, análisis de ciberseguridad y guías de configuración avanzadas de Linux. |
-| [**Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, enlaces relevantes y debates sobre las últimas amenazas y defensas. |
+| [**Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, documentación constante y opiniones |
