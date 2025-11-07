@@ -1,4 +1,4 @@
-# 🛡️ Cyber Security Enthusiast | Pen Tester
+# 🛡️ Cyber Security Enthusiast
 > **Entusiasta del Pen Testing, Hardening y la Automatización con Scripts.**
 
 <table align="center">
