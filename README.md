@@ -40,6 +40,7 @@ Me enfoco en lenguajes de Scripting para desarrollar herramientas de seguridad,A
 
 <p>
   <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -51,9 +52,8 @@ Me enfoco en lenguajes de Scripting para desarrollar herramientas de seguridad,A
 Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de ciberseguridad junto al repositorio de BlackArch.
 
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Vulnerability%20Analysis-9A2500?style=for-the-badge&logo=wireshark&logoColor=white" alt="Vulnerability Analysis"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
