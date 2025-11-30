@@ -5,7 +5,7 @@
 
 <h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
 
-*Cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. **Utilizo GitHub para documentar mi recorrido en el sector de la informática.***
+Cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. **Utilizo GitHub para documentar mi recorrido en el sector de la Seguridad Informática.**
 Fanático del terror 💀
 
 ---
