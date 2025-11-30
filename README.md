@@ -1,17 +1,7 @@
 # 🛡️ Cybersecurity Enthusiast
 > **Fan del Pen Testing, Hardening y el Scripting.**
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://i.postimg.cc/ZYMwtCnF/Untitled.jpg" alt="Red Team Logo" width="250" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NeTenebraes&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Racha de contribuciones" />
-    </td>
-  </tr>
-</table>
-
+[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=NeTenebraes&theme=dracula&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
 
@@ -69,5 +59,5 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 Documento mis avances con el mundo:
 | Plataforma | Contenido |
 | :--- | :--- |
-| [**YouTube**](https://www.youtube.com/@NeTenebrae) | Subo VoidMemes, tutoriales técnicos, análisis de ciberseguridad y guías de configuración avanzadas de Linux. |
+| [**YouTube**](https://www.youtube.com/@NeTenebrae) | Subo VoidMemes, tutoriales técnicos, análisis de ciberseguridad y guías de configuración para Linux. |
 | [**Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, documentación constante y opiniones |
