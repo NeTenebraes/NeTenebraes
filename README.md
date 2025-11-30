@@ -11,7 +11,7 @@ Fanático del terror 💀
 ---
 ## 📚 neCyberWIKI: Mi Compromiso con el Conocimiento Libre.
 
-![](https://netenebraes.github.io/neCyberWiki/_assets/og-image.png) 
+![](https://netenebraes.github.io/neCyberWiki/_assets/Banner.webp) 
 > Visita la [Página Web](https://netenebraes.github.io/neCyberWiki). 
  
 ---
