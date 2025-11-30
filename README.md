@@ -59,5 +59,5 @@ Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de c
 Documento mis avances con el mundo:
 | Plataforma | Contenido |
 | :--- | :--- |
-| [**YouTube**](https://www.youtube.com/@NeTenebrae) | Subo tutoriales técnicos, análisis de ciberseguridad y guías de configuración para Linux. |
+| [**YouTube**](https://www.youtube.com/@NeTenebrae) | Subo contenido didáctico relacionados al análisis de ciberseguridad y guías para Linux. |
 | [**Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, documentación constante y opiniones |
