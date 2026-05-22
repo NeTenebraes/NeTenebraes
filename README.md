@@ -10,9 +10,10 @@ Fanático del terror 💀
  
 ---
 ## ⚙️ Enfoque Central
-> Mi prioridad es el constante aprendizaje y la generación de material educativo de calidad.
 
-Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts** y el **Análisis de Vulnerabilidades**. 
+Mi trabajo se centra en la **Ciberseguridad**, la **creación de Scripts** y el **Análisis de Vulnerabilidades**.
+
+> Mi prioridad es mi constante aprendizaje y la generación de material educativo de calidad.
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
