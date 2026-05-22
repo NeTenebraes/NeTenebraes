@@ -1,18 +1,12 @@
-# 🛡️ Cybersecurity Enthusiast
-> **Fan del Pen Testing, Hardening y el Scripting.**
+# Sysadmin | Cybersecurity Enthusiast
 
 [![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=NeTenebraes&theme=high-contrast&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
-
 Cuento con trayectoria autodidacta en Sistemas Operativos, Redes, Programación y Ciberseguridad. **Utilizo GitHub para documentar mi recorrido en el sector de la Seguridad Informática.**
+
+Tambien me encargo de enseñar ciberseguridad y Linux a través de Youtube.
+
 Fanático del terror 💀
-
----
-## 📚 neCyberWIKI: Mi Compromiso con el Conocimiento Libre.
-
-![](https://netenebraes.github.io/neCyberWiki/_assets/Banner.webp) 
-> Visita la [Página Web](https://netenebraes.github.io/neCyberWiki). 
  
 ---
 ## ⚙️ Enfoque Central
