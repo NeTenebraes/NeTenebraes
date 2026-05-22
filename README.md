@@ -39,7 +39,7 @@ Me enfoco en lenguajes de Scripting para desarrollar herramientas de seguridad, 
 
 ### 🛠️ Herramientas y Entornos Clave
 
-Arch Linux es mi plataforma de desarrollo principal, optimizada para tareas de ciberseguridad junto al repositorio de BlackArch.
+Arch Linux es mi plataforma de desarrollo principal, optimizado a medida para mi uso diarios. Checa neBSPWM.
 
 <p>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
@@ -60,4 +60,4 @@ Documento mis avances con el mundo:
 | Plataforma | Contenido |
 | :--- | :--- |
 | [**YouTube**](https://www.youtube.com/@NeTenebrae) | Subo contenido didáctico relacionado a la Ciberseguridad y Sistemas Linux. |
-| [**Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, documentación constante y opiniones |
+| [**Threads**](https://www.threads.com/@netenebrae) | Pensamientos rápidos, documentación y opiniones |
