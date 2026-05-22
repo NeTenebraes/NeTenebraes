@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity Enthusiast
 > **Fan del Pen Testing, Hardening y el Scripting.**
 
-[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=NeTenebraes&theme=dracula&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=NeTenebraes&theme=high-contrast&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">"El conocimiento es poder, pero la actitud es el arma que lo empuña."</h3>
 
